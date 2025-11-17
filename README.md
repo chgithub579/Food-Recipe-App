@@ -10,9 +10,8 @@ A modern **React-based Food Recipe Application** that allows users to search, br
 - **Responsive UI**: Works smoothly on desktop and mobile devices.  
 - **Clean & Professional Design**: Easy-to-read fonts, cards, and horizontal scroll for alphabets.  
 
-## Screenshots
-
-![App Screenshot](screenshot.png)  <!-- replace with your actual screenshot -->
+## 🔗 Live Demo
+[https://your-application-url.com](http://localhost:3000/)
 
 ## Technologies Used
 
