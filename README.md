@@ -11,7 +11,7 @@ A modern **React-based Food Recipe Application** that allows users to search, br
 - **Clean & Professional Design**: Easy-to-read fonts, cards, and horizontal scroll for alphabets.  
 
 ## 🔗 Live Demo
-[https://your-application-url.com](http://localhost:3000/)
+https://food-recipe-application-1234.netlify.app/
 
 ## Technologies Used
 
